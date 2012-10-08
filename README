@@ -1,10 +1,9 @@
-Projekt: Spree Untouched
+Projekt: DIP
 Type: Verkaufsplattform
 
 Was wurde gemacht?
 
 $ rails g spree:install (Installed generator to copy migrations, initializers and generate sample data)
-
 
 Gitignore:
 
@@ -31,9 +30,15 @@ Gems:
 
 gem 'rails', '3.2.8'
 gem 'mysql2'
+gem 'therubyracer'
 gem 'spree', :git => 'git://github.com/spree/spree.git'
 
 Clonen, was dann?
 
 $ bundle exec rake db:migrate
 $ bundle exec rake db:seed (testdaten)
+
+Live Server erkennt den Gitpath der Spree gems nicht?
+
+bundle pack
+bundle install --path vendor/bundle
