@@ -1,3 +1,4 @@
+--- 
 de: 
   a_copy_of_all_mail_will_be_sent_to_the_following_addresses: "Eine Kopie aller E-Mails wird an die folgenden Adressen geschickt"
   abbreviation: Abkürzung
@@ -278,7 +279,7 @@ de:
   are_you_sure_you_want_to_capture: "Sind Sie sicher, dass Sie das erfassen wollen?"
   assign_taxon: "Produktklasse zuweisen"
   assign_taxons: "Produktklassen zuweisen"
-  authorization_failure: "Bitte authentifizieren Sie sich."
+  authorization_failure: "Bitte authentifizieren Sie Sich."
   authorized: Angemeldet
   availability: "Verfügbarkeit"
   available_on: "erhältlich ab"

@@ -54,4 +54,4 @@ ensure that the yml file has correct syntax and encoding
 To do
 
 auf € umstellen (2.4 Setting the Default Currency - http://guides.spreecommerce.com/i18n.html#setting-the-default-currency )
-de.yml als standard i18n yml file laden (aktuell wird die cs-CZ.yml geladen)
+Admin Interface translation
