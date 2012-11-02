@@ -49,9 +49,3 @@ can not load translation ...
 kill all yml files under given path like: C:\Ruby193\lib\ruby\gems\1.9.1\bundler\gems\spree_i18n-d0ce127166d0\config\locales
 
 ensure that the yml file has correct syntax and encoding
-
-
-To do
-
-auf € umstellen (2.4 Setting the Default Currency - http://guides.spreecommerce.com/i18n.html#setting-the-default-currency )
-Admin Interface translation

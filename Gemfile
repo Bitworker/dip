@@ -7,8 +7,9 @@ gem 'rails', '3.2.8'
 
 gem 'mysql2'
 gem 'therubyracer'
-gem 'spree', '1.2.0' #:git => 'git://github.com/spree/spree.git'
-gem 'spree_auth_devise', :git => 'git://github.com/spree/spree_auth_devise'
+gem 'spree', :git => 'git://github.com/spree/spree.git'
+# gem 'spree_auth_devise', :git => 'git://github.com/spree/spree_auth_devise'
+gem 'spree_auth_devise', :git => 'git://github.com/spree/spree_auth_devise', :branch => 'edge'
 # original repository not compatible at the moment, use fork
 # gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
 # gem 'spree_i18n', :git => 'git://github.com/kares/spree_i18n.git'

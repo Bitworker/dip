@@ -10,7 +10,6 @@ Spree.config do |config|
   # Uncomment to override the default site name.
   config.site_name = "dIP"
   config.allow_ssl_in_production = false
-  config.default_locale = "de"
 end
 
 # Spree::Config[:default_locale] = :de
